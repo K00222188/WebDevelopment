@@ -1,7 +1,11 @@
+#body1 {
+    background-color: #572E82;
+}
+
 #header {
     height: 90px;
     width: 100%;
-    background-color: black;
+    background-color: #7252E5;
     
 }
 
@@ -17,21 +21,21 @@
 
 #subheader {
     font-size: 25px;
-    color: greenyellow;
+    color: whitesmoke;
     text-align: center    
 }
 
 #nav {
     height: 35px;
     width 960px;
-    background-color: mediumpurple;
+    background-color: #545BCF;
     border-bottom-width: 4px;
     border-bottom-color: #93b874
 }
 
 #page {
     width: 960px;
-    background-color: lightgreen;
+    background-color: #324F8C;
     margin: 0 auto;
 }
 #page1 {
